@@ -6,7 +6,7 @@
             <div class="main-slider-carousel owl-carousel owl-theme">
                 @foreach(\App\Slider::whereis_active('1')->orderby('order' , 'asc')->get() as $slid)
 
-                    <div class="slide" style="background-image:url('{{$slid->image}}') ; height: 1000px  ">
+                    <div class="slide" style="background-image:url('{{$slid->image}}') ; height: 1000px ;width: 100% ">
                         {{--                <div class="patern-layer-one" style="background-image: url(/images/main-slider/pattern-1.png)"></div>--}}
                         {{--                <div class="patern-layer-two" style="background-image: url(images/main-slider/pattern-2.png)"></div>--}}
                         <div class="auto-container">
