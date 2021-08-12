@@ -96,7 +96,7 @@
                 <div class="row clearfix">
                     <!-- Column -->
                     <div class="column col-lg-6 col-md-12 col-sm-12">
-                        <div class="copyright">کپی رایت 1400 | طراحی سایت و توسعه قالب توسط حسین ستاری. تمام حقوق سایت
+                        <div class="copyright">کپی رایت 1400 | طراحی سایت و توسعه قالب توسط <a href="https://www.instagram.com/A.g.team/">A.g.team</a>. تمام حقوق سایت
                             محفوظ می باشد.
                         </div>
                     </div>

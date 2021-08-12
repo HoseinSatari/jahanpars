@@ -80,10 +80,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <footer class="main-footer">
         <!-- To the right -->
         <div class="float-left d-none d-sm-inline">
-            <a class="" href="https://www.instagram.com/_hoseinsatari/" target="_blank">hoseinsatari</a>
+            <a class="" href="https://www.instagram.com/A.g.team/" target="_blank">A.g.team</a>
         </div>
         <!-- Default to the left -->
-        طراحی و پیاده سازی شده توسط <strong><a href="https://www.instagram.com/_hoseinsatari/">حسین ستاری</a></strong>
+        طراحی و پیاده سازی شده توسط <strong><a href="https://www.instagram.com/A.g.team/">A.g.team</a></strong>
     </footer>
 </div>
 {{--
